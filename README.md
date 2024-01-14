@@ -16,6 +16,10 @@ The model is trained on a diverse dataset that includes pairs of grayscale and c
 
 The model is trained using the PyTorch framework. The training process involves minimizing the mean squared error (MSE) loss between the predicted colorized output and the ground truth color image. The Adam optimizer is used with a learning rate schedule to efficiently converge to a good solution.
 
+The learning curves may be found below.
+
+![Learning Curve 1](trainingcurve.png)
+
 ## Output Examples
 
 Here are some qualitative results of the colorization model on various grayscale images:
@@ -23,9 +27,11 @@ Here are some qualitative results of the colorization model on various grayscale
 
 Ground Truth 1 | Colorized Output 1
 
+![Original Image 1](com1.png)
 
 Ground Truth 2 | Colorized Output 2
 
+![Original Image 2](com2.png)
 
 ### Dependencies
 
