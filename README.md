@@ -27,7 +27,7 @@ Here are some qualitative results of the colorization model on various grayscale
 
 Ground Truth 1 | Colorized Output 1
 
-![Original Image 1](com1.png)
+![Original Image 1](com4.png)
 
 Ground Truth 2 | Colorized Output 2
 
